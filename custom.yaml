@@ -1,0 +1,9 @@
+path: 'money_dataset/'
+train: 'train/images'
+val: 'valid/images'
+
+# class names
+names:
+  0: 'coin'
+  1: 'banknote'
+  2: 'bank card'
